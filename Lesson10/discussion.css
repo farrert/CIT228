@@ -1,0 +1,33 @@
+﻿body{ background-image:url('images/ACWallpaper.jpg'); background-size: cover;}
+	
+ h1 {text-align:center; font-size:32pt; font-family:"Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif; color:rgb(54, 5, 73)}
+
+ h2 {text-align:left; font-size:18pt; font-family:"Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif; color:rgb(32, 11, 59)}
+
+ h3 {text-align:left; font-size:16pt; font-family:"Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif; color:#339933}
+
+ h4 {text-align:left; font-size:14pt; font-family :"Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif; color:#669999}
+
+ p { text-align:left; font-family:"Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif; font-size:12pt; color:black}
+
+ ol {text-align:left; font-family:"Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif; font-size:12pt; color:black}
+
+ ul {text-align:left; font-family:"Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif; font-size:12pt; color:black}
+
+a:link {color:rgb(54, 14, 92); text-decoration: underline; font-size: larger; }
+
+a:active {color:#339933; text-decoration: underline; }
+
+a:visited {color:rgb(2, 56, 6); text-decoration: underline; }
+
+a:hover {color: white; background-color: maroon; text-decoration: none; }
+
+table {text-align:left; font-family:Calisto MT; font-size:12pt; color:black; border:5px ridge maroon;  padding: 15px 15px 15px 15px;}
+
+td {height:40px; font-family:"Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif; font-size:12pt; color:black}
+
+#orange:first-line {font-weight:bold; color:rgb(61, 17, 87);}
+
+#big:first-letter {font-size:42pt; float:left; }
+
+hr {height:4; color:#ff6633; background-color:rgb(56, 14, 83);}
